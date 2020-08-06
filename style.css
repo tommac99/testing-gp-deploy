@@ -1,0 +1,17 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(20deg, rgb(55, 59, 66), rgb(73, 64, 95));
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: white;
+  font-size: 70px;
+  font-weight: 900;
+}
